@@ -1,0 +1,92 @@
+html { position:relative;min-height: 100%; }
+
+body { margin: 0 0 0px;padding:0px;border:0px;font-size:15px;background-color:#ffffff }
+.wrapper { width:690px;margin: 0 auto;padding-left:0px;padding-bottom:30px }
+.container { min-width:690px;color:#000000;padding:0px 20px 20px 20px;font-family:helvetica,arial }
+
+.sidebar { width: 160px; float:left }
+.name { margin-top:51px;font-size:15px;width: 100px;border-bottom:1px solid #b80101;padding-bottom:15px;white-space: nowrap; font-family:helvetica,arial }
+.menu { margin-top:15px;line-height:20px }
+
+a.menulink { text-decoration:none;color:#696969;border-bottom:0px solid #aaaaaa;font-size:14px;font-family:helvetica,arial }
+a.menulink:hover { text-decoration:none;color:#202020;border-bottom:1px solid #303030 }
+
+a.home { text-decoration:none;color:#000000; font-family:helvetica,arial}
+a.home:hover { text-decoration:none } 
+
+p { line-height:135% }
+
+.heading {margin-bottom:20px;letter-spacing:0.4px;color:#000000;font-size:14px;font-family:helvetica,arial } 
+.heading2 {margin-bottom:15px;letter-spacing:0.4px;color:#000000;font-size:16px;font-weight: bold; font-family:helvetica,arial } 
+.yearheading {margin-bottom:15px;letter-spacing:0px;color:#000000;font-size:15px;font-family:helvetica,arial } 
+.research { padding-bottom:17px }
+.year { padding-bottom:17px }
+.event { margin-bottom:10px;font-family:helvetica,arial ;color:#808080;line-height:135% }
+.eventtitle { font-family:helvetica,arial;color:#000000 }
+a.eventtitle { text-decoration:none;font-family:helvetica,arial;color:#000000;border-bottom:1px dotted #aaaaaa }
+a.eventtitle:hover { text-decoration:none;font-family:helvetica,arial;color:#000000;border-bottom:1px solid #808080 }
+.location { padding-left:0px }
+
+.vita { margin-bottom: 12px }
+.title { font-family:helvetica,arial }
+    
+.contact { margin-bottom: 2px;font-family:helvetica,arial;font-size:14px;color:#000000;text-decoration: none}
+
+.main { width:530px;margin-top:60px;float:left }
+.maintext { width:530px;margin-top:120px;color:#000000;float:left;line-height:130% }
+.maintext2 { width:800px;margin-top:30px;color:#000000;float:left;line-height:130% }
+
+.textblock { margin-bottom:35px }
+
+.pagetitle { margin-bottom:40px;font-size:30px;text-align:center;font-family:helvetica,arial;color:#991439 }
+
+.affil { padding-left:8px;color:#999999;font-family:helvetica,arial}
+
+a.textlink { text-decoration:none;color:#101010;border-bottom:1px solid #bbbbbb;font-family: helvetica,arial }
+a.textlink:hover { text-decoration:none;color:#202020;border-bottom:1px solid #303030 }
+
+.entry { margin-bottom:25px }
+.entrytitle { margin-bottom:12px;font-size:13px;letter-spacing:0px;font-family:helvetica,arial }
+.par { width:550px;margin-left:0px;margin-bottom:10px;line-height:128% }
+
+.archive { font-size: 95%;color: #707070;font-family:helvetica,arial }
+a.archivelink { text-decoration: none;font-size: 95%;color: #707070 }
+a.archivelink:hover { text-decoration: underline;font-size: 95%;color: #707070 }
+
+.paper { margin-bottom:8px;font-family:helvetica,arial ;color:#808080;line-height:135% }
+.papertitle { margin-bottom:6px;font-family:helvetica,arial;color:#000000;line-height:135% }
+a.paperlink { text-decoration: none;color:#707070; }
+
+a.booklink { text-decoration: none;color:#000000;font-family:helvetica,arial }
+a.coauthor { text-decoration: none;border-bottom:1px dotted #aaaaaa;color:#808080; }
+a.coauthor:hover { text-decoration: none;border-bottom:1px solid #aaaaaa;color:#808080; }
+
+.wrapper2 { width:600px;margin: 0 auto;padding-left:0px;padding-bottom:30px }
+.container2 { min-width:600px;color:#000000;padding:0px 30px 30px 30px;font-family:helvetica,arial}
+.coursetitle { font-family:helvetica,arial ;color:#990000;margin-top:60px;margin-bottom:3px;font-size:22px }
+.term { font-family:helvetica,arial;color:#808080;margin-bottom:25px;font-size:19px }
+.lectures { font-family:helvetica,arial;margin-top:10px}
+.info { margin-bottom:18px }
+a.instructorlink { text-decoration:none;border-bottom:1px dotted #707070;font-family:helvetica,arial;color:#000000 }
+a.instructorlink:hover { border-bottom:1px solid #303030 }
+
+.semester { font-family:helvetica,arial;margin-bottom:10px }
+a.courselink { text-decoration:none;font-family:helvetica,arial;color:#505050 }
+a.courselink:hover { border-bottom:1px solid #303030 }
+
+a.seminar { text-decoration:none;font-family:helvetica,arial;color:#000000 }
+a.seminar:hover { border-bottom:1px solid #000000 }
+
+.institute { margin-top:18px }
+a.institute { text-decoration:none;font-size:14px;font-family:helvetica,arial ;color:#000000;border-bottom:1px dotted #aaaaaa }
+a.institute:hover { text-decoration:none;font-family:helvetica,arial ;color:#000000;border-bottom:1px solid #808080 }
+
+a.textbook { text-decoration:none;font-family:helvetica,arial ;border-bottom:1px dotted #808080;color:#000000 }
+a.textbook:hover { text-decoration:none;font-family:helvetica,arial ;border-bottom:1px solid #808080;color:#000000 }
+
+
+
+
+
+
+
